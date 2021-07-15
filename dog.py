@@ -2,7 +2,7 @@
 Shaili Soni
 CS100, H01
 Nov 30 2020
-HW #11
+HW #11- the dog class
 '''
 
 class Dog: #problem 1
